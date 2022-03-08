@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @SheinminOffical
-- 👀 I’m interested in Software development and iot project
-- 🌱 I’m currently learning PHP,JavaScript and Python
+- 👋 Hi, I’m @Shein MIn Htet
+- 👀 I’m interested in Software development, Game Development and Ai
+- 🌱 I’m currently learning JavaScript and Python
 
 <!---
 SheinminOffical/SheinminOffical is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
